@@ -1,8 +1,8 @@
 # How to?
 
-### run this command  npm i
+>  run this command  npm i
 
-### run this command  npm start
+>  run this command  npm start
 
 
 # Built with
