@@ -9,5 +9,5 @@
 
 ### react-redux-tailwindcss
 ### `axios -
-### get api from "https://www.themoviedb.org/settings/api"
+##### get api from "[https://www.themoviedb.org/settings/api](https://gutendex.com/)"
 
